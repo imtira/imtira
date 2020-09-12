@@ -1,15 +1,15 @@
 <p align="center">
 	<br><br>
-	<code>
+	<samp>
 		Hei👋
 
 		<i>links</i>
 		<br>
 		<a href="https://tira.tech">Website</a>
-	</code>
+	</samp>
 </p>
 
-# 💖
+#### I 💖
 * Rust
 * CTF
 * Pentesting
