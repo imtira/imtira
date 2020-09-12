@@ -15,14 +15,9 @@
 * Pentesting
 * Social Engineering
 
-<details>
-	<summary>Music</summary>
-	
-	<a href="https://youtu.be/e5nz2BdtesE">HUMANSUIT : GONE.Fludd</a>
-	<a href="https://youtu.be/Egmtu1OP0xE">Окей : Тима Белорусских</a>
-	<a href="https://youtu.be/c_tSDJD1Jf8">Пачка Сигарет : LIZER</a>
+#### Music
 
-</details>
+https://youtu.be/Egmtu1OP0xE • https://youtu.be/c_tSDJD1Jf8 • https://youtu.be/e5nz2BdtesE •
 
 [![forthebadge](https://forthebadge.com/images/badges/fuck-it-ship-it.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com)
