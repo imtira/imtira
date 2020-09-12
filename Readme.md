@@ -3,15 +3,15 @@
 	<samp>
 		Hei👋
 	</samp>
+	<br><br>
+	<i>Links</i>
 	<br>
-	<i>links</i>
-	<br>
-	<a href="https://tira.tech">website</a> <a href="https://en.wikipedia.org/wiki/User:Tiraboschi">wikipedia</a>
+	<a href="https://tira.tech">Website</a> | <a href="https://en.wikipedia.org/wiki/User:Tiraboschi">Wikipedia</a>
 </p>
 
 #### I 💖
 * Rust
-* CTF
+* CTFs
 * Pentesting
 * Social Engineering
 
@@ -24,18 +24,13 @@
 
 </details>
 
-<details>
-	<summary>Badges++</summary>
-	
-	[![forthebadge](https://forthebadge.com/images/badges/fuck-it-ship-it.svg)](https://forthebadge.com)
-	[![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com)
-	[![forthebadge](https://forthebadge.com/images/badges/uses-badges.svg)](https://forthebadge.com)
-	[![forthebadge](https://forthebadge.com/images/badges/ages-12.svg)](https://forthebadge.com)
-	[![forthebadge](https://forthebadge.com/images/badges/built-by-codebabes.svg)](https://forthebadge.com)
-	[![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
-	[![forthebadge](https://forthebadge.com/images/badges/built-with-resentment.svg)](https://forthebadge.com)
-	[![forthebadge](https://forthebadge.com/images/badges/certified-elijah-wood.svg)](https://forthebadge.com)
-	[![forthebadge](https://forthebadge.com/images/badges/contains-technical-debt.svg)](https://forthebadge.com)
-	[![forthebadge](https://forthebadge.com/images/badges/reading-6th-grade-level.svg)](https://forthebadge.com)	
+[![forthebadge](https://forthebadge.com/images/badges/fuck-it-ship-it.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/uses-badges.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/ages-12.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-by-codebabes.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-resentment.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/certified-elijah-wood.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/contains-technical-debt.svg)](https://forthebadge.com)	[![forthebadge](https://forthebadge.com/images/badges/reading-6th-grade-level.svg)](https://forthebadge.com)	
 
-</details>
