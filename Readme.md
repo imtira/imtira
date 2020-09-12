@@ -3,9 +3,10 @@
 	<samp>
 		Hei👋
 	</samp>
-	<a>links</i>
 	<br>
-	<a href="https://tira.tech">Website</a>
+	<i>links</i>
+	<br>
+	<a href="https://tira.tech">website</a> <a href="https://en.wikipedia.org/wiki/User:Tiraboschi">wikipedia</a>
 </p>
 
 #### I 💖
