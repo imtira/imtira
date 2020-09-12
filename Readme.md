@@ -2,11 +2,10 @@
 	<br><br>
 	<samp>
 		Hei👋
-
-		<i>links</i>
-		<br>
-		<a href="https://tira.tech">Website</a>
 	</samp>
+	<a>links</i>
+	<br>
+	<a href="https://tira.tech">Website</a>
 </p>
 
 #### I 💖
