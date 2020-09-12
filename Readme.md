@@ -9,12 +9,9 @@
 	<a href="https://tira.tech">Website</a> | <a href="https://en.wikipedia.org/wiki/User:Tiraboschi">Wikipedia</a>
 </p>
 
-**I 💖**
-• Rust • Python • Kakoune • Alacritty • CTFs • Pentesting • Social Engineering
+**I 💖** • Rust • Python • Kakoune • Alacritty • CTFs • Pentesting • Social Engineering
 
-**Music**
-
-• https://youtu.be/Egmtu1OP0xE • https://youtu.be/c_tSDJD1Jf8 • https://youtu.be/e5nz2BdtesE
+**Music** • https://youtu.be/Egmtu1OP0xE • https://youtu.be/c_tSDJD1Jf8 • https://youtu.be/e5nz2BdtesE
 
 [![forthebadge](https://forthebadge.com/images/badges/fuck-it-ship-it.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com)
