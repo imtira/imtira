@@ -11,5 +11,6 @@
 
 **music** • https://youtu.be/Egmtu1OP0xE • https://youtu.be/c_tSDJD1Jf8 • https://youtu.be/e5nz2BdtesE
 
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imtira&layout=compact&theme=calm&hide=javascript,crystal,java,shell)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
